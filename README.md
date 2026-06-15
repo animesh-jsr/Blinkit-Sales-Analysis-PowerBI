@@ -18,7 +18,7 @@ This project presents an interactive Power BI dashboard built using Blinkit sale
 - Excel
 
 ## Dashboard Preview
-![Blinkit Dashboard](dashboard.png)
+![Blinkit Dashboard](Dashboard.png)
 
 ## Key Insights
 - Identified top-performing product categories.
